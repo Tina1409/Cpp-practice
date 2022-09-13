@@ -5,7 +5,6 @@ int main(){
 	cout<<"**INCOME TAX CALCULATOR**"<<endl;
 	cout<<"Enter your income: ";
 	cin>>income;
-	
 	if (income<250000){
 		tax=0;
 	}
