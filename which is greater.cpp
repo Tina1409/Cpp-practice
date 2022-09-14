@@ -28,4 +28,6 @@ int main (){
 	else {
 		cout<< c << " is smaller"<<endl;
 	}
+	
+
 }
